@@ -1,0 +1,1 @@
+model name: faster_rcnn_inception_resnet_v2_atrous_coco
